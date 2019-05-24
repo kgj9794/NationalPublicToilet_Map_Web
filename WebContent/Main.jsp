@@ -33,7 +33,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-bar-item w3-button">X</a>
-  <a href="http://localhost:8080/Test/FindToilet.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button">화장실 찾기</a>
+  <a href="http://localhost:8080/Oss_Project_8/Page1.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button">화장실 찾기</a>
   <a href="" onclick="w3_close()" class="w3-bar-item w3-button">Version</a>
   <a href="" onclick="w3_close()" class="w3-bar-item w3-button">후원하기</a>
   <a href="" onclick="w3_close()" class="w3-bar-item w3-button">기부하기</a>
@@ -63,6 +63,8 @@ function w3_close() {
   document.getElementById("mySidebar").style.display = "none";
 }
 </script>
+
+
   
  
 

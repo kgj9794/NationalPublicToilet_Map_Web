@@ -27,7 +27,7 @@ body, html {height: 100%}
     <h1 class="w3-jumbo w3-animate-top">Toilet Finder</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
     <p class="w3-large w3-center w3-animate-top">환영합니다!</p>
-    <a href="http://localhost:8080/Toilet/Ui.jsp" target="_self" class="w3-large w3-right w3-animate-top w3-white w3-button" " style="text-decoration:none" > 화장실 입장하기 ▷</a>
+    <a href="http://localhost:8080/OSS_Project_8/Ui.jsp" target="_self" class="w3-large w3-right w3-animate-top w3-white w3-button" " style="text-decoration:none" > 화장실 입장하기 ▷</a>
   </div>
   <div class="w3-display-bottomleft w3-padding-large w3-animate-left">
     Powered by <a href="https://www.w3schools.com/w3css/default.asp " target="_blank" style="text-decoration:none">팔조비빔면</a>

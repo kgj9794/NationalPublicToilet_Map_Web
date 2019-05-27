@@ -37,7 +37,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <!-- Top menu -->
 <div class="w3-top">
   <div class="w3-grey w3-xlarge w3-animate-right " style="max-width:100%;margin:auto">
-    <a href="http://localhost:8080/Toilet/noticeboard.jsp" target="_self" class="w3-button w3-padding-16 w3-left w3-animate-right w3-large" ><i class="material-icons">arrow_back</i></a>
+    <a href="http://localhost:8080/OSS_Project_8/noticeboard.jsp" target="_self" class="w3-button w3-padding-16 w3-left w3-animate-right w3-large" ><i class="material-icons">arrow_back</i></a>
     <div class="w3-center w3-padding-16 ">등록하기🖍</div>
   </div>
 </div>

@@ -71,19 +71,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-bar-item w3-button w3-black"><i class="material-icons">arrow_back</i></a>
-  <a href="http://localhost:8080/Toilet/start.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button">초기화면으로➰</a>
-  <a href="http://localhost:8080/Toilet/Ui.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button ">화장실 보기🌎</a>
-  <a href="http://localhost:8080/Toilet/search.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button w3-text-purple">화장실 검색🔍</a>
-  <a href="http://localhost:8080/Toilet/Ver.jsp" onclick="w3_close()" class="w3-bar-item w3-button">버전⚡</a>
-  <a href="http://localhost:8080/Toilet/money.jsp" onclick="w3_close()" class="w3-bar-item w3-button">후원하기💸</a>
-  <a href="http://localhost:8080/Toilet/about.jsp" onclick="w3_close()" class="w3-bar-item w3-button w3-text-blue">대하여..❔</a>
+  <a href="http://localhost:8080/OSS_Project_8/start.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button">초기화면으로➰</a>
+  <a href="http://localhost:8080/OSS_Project_8/Ui.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button ">화장실 보기🌎</a>
+  <a href="http://localhost:8080/OSS_Project_8/search.jsp" target="_self" onclick="w3_close()" class="w3-bar-item w3-button w3-text-purple">화장실 검색🔍</a>
+  <a href="http://localhost:8080/OSS_Project_8/Ver.jsp" onclick="w3_close()" class="w3-bar-item w3-button">버전⚡</a>
+  <a href="http://localhost:8080/OSS_Project_8/money.jsp" onclick="w3_close()" class="w3-bar-item w3-button">후원하기💸</a>
+  <a href="http://localhost:8080/OSS_Project_8/about.jsp" onclick="w3_close()" class="w3-bar-item w3-button w3-text-blue">대하여..❔</a>
 </nav>
 
 <!-- Top menu -->
 <div class="w3-top">
   <div class="w3-purple w3-animate-top w3-xlarge" style="max-width:100%;margin:auto">
     <div class="w3-button w3-padding-16 w3-left w3-animate-top" onclick="w3_open()">☰</div>
-    <a href="http://localhost:8080/Toilet/noticeboard.jsp" target="_self" class="w3-button w3-right w3-padding-16 w3-medium w3-animate-top" " style="text-decoration:none" >게시판📝</a>
+    <a href="http://localhost:8080/OSS_Project_8/noticeboard.jsp" target="_self" class="w3-button w3-right w3-padding-16 w3-medium w3-animate-top" " style="text-decoration:none" >게시판📝</a>
     <div class="w3-center w3-padding-16 ">화장실 검색🔍</div>
   </div>
 </div>
